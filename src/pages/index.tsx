@@ -16,7 +16,7 @@ export default function Home() {
       </Head>
       <main className={styles.main}>
         <div className={styles.description}>
-          <p>Hiiiiii</p>
+          <p>Hiiiiii new</p>
         </div>
       </main>
     </>
